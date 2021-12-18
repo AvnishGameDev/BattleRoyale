@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DBA62A94-4DFB-FC8E-A557-4582FD12D930}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		}
+	]
+}

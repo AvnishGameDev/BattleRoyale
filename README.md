@@ -41,7 +41,7 @@ This project is **archived** and won’t receive any updates. It remains as a re
 
 ## ✍️ Author
 
-Made by [Your Name] — feel free to reach out or check my newer work at [avnishgamedev.com](https://avnishgamedev.com).
+Made by Avnish Kirnalli — feel free to reach out or check my newer work at [avnishgamedev.com](https://avnishgamedev.com).
 
 ---
 
